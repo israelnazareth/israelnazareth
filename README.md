@@ -52,6 +52,6 @@
   [<img src='https://shields.io/badge/_-twitter-0D1117?logo=twitter&style=for-the-badge&logoColor=F1F070' alt='twitter' height='30'>](https://twitter.com/raeeel)
   [<img src='https://shields.io/badge/_-steam-0D1117?logo=steam&style=for-the-badge&logoColor=F1F070' alt='steam' height='30'>](https://steamcommunity.com/id/raeeel/)
   
-  ![Snake animation](https://github.com/israelnazareth/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/israelnazareth/israelnazareth/blob/output/github-contribution-grid-snake.svg)
 
 </div>
