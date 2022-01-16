@@ -15,11 +15,11 @@
 ### 📈 **GitHub Stats** 📉
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelnazareth&theme=github_dark&layout=compact&hide_border=true&title_color=F1F070" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelnazareth&theme=github_dark&layout=compact&hide_border=true&title_color=F1F070" />
 </a>
 
 ##
