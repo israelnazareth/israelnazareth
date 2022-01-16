@@ -53,5 +53,8 @@
   [<img src='https://shields.io/badge/_-steam-0D1117?logo=steam&style=for-the-badge&logoColor=F1F070' alt='steam' height='30'>](https://steamcommunity.com/id/raeeel/)
   
   ![Snake animation](https://github.com/israelnazareth/israelnazareth/blob/output/github-contribution-grid-snake.svg)
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=israelnazareth&hide_border&color=F1F070&line=F1F070&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
