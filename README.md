@@ -54,7 +54,7 @@
   
   ![Snake animation](https://github.com/israelnazareth/israelnazareth/blob/output/github-contribution-grid-snake.svg)
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=israelnazareth&hide_border&color=F1F070&line=F1F070&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=israelnazareth&hide_border=true&color=F1F070&line=F1F070&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
