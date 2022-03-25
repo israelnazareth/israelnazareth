@@ -4,8 +4,6 @@
 
   👨🏻‍💻 Desenvolvedor Web Full Stack.
 
-  ⭐ Natural do Rio de Janeiro, BR.
-
   🌱 Atualmente estudando tecnologias Back-End.
 
   📫 E-mail para contato: israel.fab@hotmail.com
