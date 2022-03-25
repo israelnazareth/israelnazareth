@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F1F070&size=26&center=true&vCenter=true&lines=Ol%C3%A1!%F0%9F%91%8B%F0%9F%8F%BB+Meu+nome+%C3%A9+Israel!)](https://git.io/typing-svg)
 
-  👨🏻‍💻 Desenvolvedor Web Front-End Jr.
+  👨🏻‍💻 Desenvolvedor Web Full Stack.
 
   ⭐ Natural do Rio de Janeiro, BR.
 
@@ -45,12 +45,7 @@
   <br>
   <br>
 
-  <h2>🔗 Links 🔗</h2>
-
   [<img src='https://shields.io/badge/_-linkedin-0D1117?logo=linkedin&style=for-the-badge&logoColor=F1F070' alt='linkedin' height='30'>](https://www.linkedin.com/in/israelnazareth/)
-  [<img src='https://shields.io/badge/_-instagram-0D1117?logo=instagram&style=for-the-badge&logoColor=F1F070' alt='instagram' height='30'>](https://www.instagram.com/rael.22/)
-  [<img src='https://shields.io/badge/_-twitter-0D1117?logo=twitter&style=for-the-badge&logoColor=F1F070' alt='twitter' height='30'>](https://twitter.com/raeeel)
-  [<img src='https://shields.io/badge/_-steam-0D1117?logo=steam&style=for-the-badge&logoColor=F1F070' alt='steam' height='30'>](https://steamcommunity.com/id/raeeel/)
   
   ![Snake animation](https://github.com/israelnazareth/israelnazareth/blob/output/github-contribution-grid-snake.svg)
   
