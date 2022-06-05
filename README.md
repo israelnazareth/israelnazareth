@@ -4,7 +4,7 @@
 
   👨🏻‍💻 Desenvolvedor Web Full Stack.
 
-  🌱 Atualmente estudando tecnologias Back-End.
+  🌱 Atualmente estudando Python.
 
   📫 E-mail para contato: israel.fab@hotmail.com
   <br>
