@@ -43,11 +43,5 @@
   <br>
   <br>
 
-  [<img src='https://shields.io/badge/_-linkedin-0D1117?logo=linkedin&style=for-the-badge&logoColor=F1F070' alt='linkedin' height='30'>](https://www.linkedin.com/in/israelnazareth/)
-  
-  ![Snake animation](https://github.com/israelnazareth/israelnazareth/blob/output/github-contribution-grid-snake.svg)
-  
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=israelnazareth&hide_border=true&color=F1F070&line=F1F070&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+  [<img src='https://shields.io/badge/_-linkedin-0D1117?logo=linkedin&style=for-the-badge&logoColor=F1F070' alt='linkedin' height='30'>](https://www.linkedin.com/in/israelnazareth/)  
 </div>
