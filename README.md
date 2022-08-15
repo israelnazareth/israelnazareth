@@ -5,6 +5,8 @@
   👨🏻‍💻 Desenvolvedor Web Full Stack.
 
   🌱 Atualmente estudando Python.
+  
+  📰 Portfólio: https://israelnazareth.github.io/
 
   📫 E-mail para contato: israel.fab@hotmail.com
   <br>
