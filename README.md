@@ -11,13 +11,24 @@
   <br>
 
   <h2>📈 GitHub Stats 📉</h2>
+  
+<!--   <picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align=center height=180 src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
+    </a>
+  </picture>
+  <picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align=center height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelnazareth&hide=shell&theme=github_dark&layout=compact&hide_border=true&title_color=F1F070" />
+    </a>
+  </picture> -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=160 src="https://github-readme-stats-israelnazareth.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark &hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
+    <img align=center height=180 src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=160 src="https://github-readme-stats.vercel-israelnazareth.app/api/top-langs/?username=israelnazareth&hide=shell&theme=github_dark &layout=compact&hide_border=true&title_color=F1F070" />
+    <img align=center height=180 align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelnazareth&hide=shell&theme=github_dark&layout=compact&hide_border=true&title_color=F1F070" />
   </a>
   <br>
   <br>
