@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=160 src="https://github-readme-stats-israelnazareth.vercel.app/api/top-langs/?username=israelnazareth&hide=shell&theme=github_dark &layout=compact&hide_border=true&title_color=F1F070" />
+    <img align="center" height=160 src="https://github-readme-stats.vercel-israelnazareth.app/api/top-langs/?username=israelnazareth&hide=shell&theme=github_dark &layout=compact&hide_border=true&title_color=F1F070" />
   </a>
   <br>
   <br>
