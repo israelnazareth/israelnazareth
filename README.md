@@ -13,7 +13,7 @@
   <h2>📈 GitHub Stats 📉</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=center height=160 src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
+    <img align=center height=180 src="https://github-readme-stats.vercel.app/api?username=israelnazareth&show_icons=true&theme=github_dark&hide_border=true&title_color=F1F070&icon_color=C0BF5A" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
