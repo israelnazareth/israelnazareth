@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F1F070&size=26&center=true&vCenter=true&lines=Ol%C3%A1!%F0%9F%91%8B%F0%9F%8F%BB+Meu+nome+%C3%A9+Israel!)](https://git.io/typing-svg)
 
-  👨🏻‍💻 Desenvolvedor Web Full Stack.
+  👨🏻‍💻 Desenvolvedor Web Full Stack formado na <a href="https://www.betrybe.com/">Trybe</a>.
   
   📰 Portfólio: https://israelnazareth.github.io/
 
@@ -22,7 +22,7 @@
   <br>
   <br>
 
-  <h2> 👨🏻‍💻 Tecnologias 👩🏻‍💻 </h2>
+  <h2> 🖥️ Tecnologias 💻 </h2>
 
   <div>
     <!--react--><img height=30 src="https://shields.io/badge/_-React.js-0D1117?logo=react&style=for-the-badge&logoColor=F1F070">
