@@ -49,5 +49,7 @@
   <br>
   <br>
 
-  [<img src='https://shields.io/badge/_-linkedin-0D1117?logo=linkedin&style=for-the-badge&logoColor=F1F070' alt='linkedin' height=30>](https://www.linkedin.com/in/israelnazareth/)  
+  [<img src='https://shields.io/badge/_-linkedin-0D1117?logo=linkedin&style=for-the-badge&logoColor=F1F070' alt='linkedin' height=30>](https://www.linkedin.com/in/israelnazareth/)
+  
+  <img src='https://user-images.githubusercontent.com/85763987/211944009-c585d5ad-cc29-4c13-8309-4f95f96c2f5b.gif' alt='linkedin' height=200>
 </div>
