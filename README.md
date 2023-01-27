@@ -4,7 +4,7 @@
   
   👨🏻‍💻 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/).
   
-  🌱 Me especializando em React | Front-end pelo Ignite da [Rocketseat](https://www.rocketseat.com.br/).
+  🌱 Me especializando em React | Front-end pelo [Ignite](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/).
   
   📰 Portfólio: https://israelnazareth.github.io/
 
