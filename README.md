@@ -8,7 +8,7 @@
   
   📰 Portfólio: https://israelnazareth.github.io/
 
-  📫 E-mail para contato: israel.fab@hotmail.com
+  📫 E-mail para contato: israelsnazareth@gmail.com
   <br>
   <br>
 
