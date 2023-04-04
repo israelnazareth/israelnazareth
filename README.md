@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F1F070&size=26&center=true&vCenter=true&lines=Ol%C3%A1!%F0%9F%91%8B%F0%9F%8F%BB+Meu+nome+%C3%A9+Israel!)](https://git.io/typing-svg)
   
-  👨🏻‍💻 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/). 
+  👨🏻‍💻 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/).
 
   🏳️‍🌈 Atualmente atuo como Desenvolvedor Front-End Voluntário na [Lacrei](https://www.portallacrei.com.br/).
   
