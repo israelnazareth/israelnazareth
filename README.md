@@ -4,7 +4,7 @@
   
   👨🏻‍💻 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/).
 
-  🏳️‍🌈 Atualmente atuo como Desenvolvedor Front-End Voluntário na [Lacrei](https://www.portallacrei.com.br/).
+  💼 Atualmente trabalho como Desenvolvedor Full Stack na [Compliance Station](https://compliancestation.com.br/).
   
   🌱 Me especializando em React | Front-end pelo [Ignite](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/).
   
