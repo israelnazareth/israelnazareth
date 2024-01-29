@@ -10,7 +10,7 @@
   
   🌱 Me especializando em React | Front-end pelo [Ignite](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/)
   
-  📰 Portfólio: https://israelnazareth.github.io/
+  📰 Portfólio: https://www.israelnazareth.com/
 
   📫 E-mail para contato: israelsnazareth@gmail.com
   <br>
