@@ -2,9 +2,9 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F1F070&size=26&center=true&vCenter=true&lines=Ol%C3%A1!%F0%9F%91%8B%F0%9F%8F%BB+Meu+nome+%C3%A9+Israel!)](https://git.io/typing-svg)
   
-  👨🏻‍💻 Desenvolvedor Web formado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+  👨🏻‍💻 Desenvolvedor Web formado pela [Trybe](https://www.betrybe.com/)
   
-  💼 Atualmente trabalho como Desenvolvedor Front-end na <a href="https://compliancestation.com.br/" target="_blank">Compliance Station</a>
+  💼 Atualmente trabalho como Desenvolvedor Front-end na [Compliance Station](https://compliancestation.com.br/)
 
   :mortar_board: Cursando Engenharia de Software na [Faculdade UniAmérica Descomplica](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)
   
