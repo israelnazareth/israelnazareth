@@ -8,7 +8,7 @@
 
   :mortar_board: Cursando Engenharia de Software na [Faculdade UniAmérica Descomplica](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)
   
-  🌱 Me especializando em React | Front-end pelo [Ignite](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/)
+  🌱 Me especializando em React | Front-end pelo [Ignite](https://www.rocketseat.com.br/formacao/react) da [Rocketseat](https://www.rocketseat.com.br/)
   
   📰 Portfólio: https://www.israelnazareth.com/
 
