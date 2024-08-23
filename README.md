@@ -6,7 +6,7 @@
   
   💼 Atualmente trabalho como Desenvolvedor Front-end na [Compliance Station](https://compliancestation.com.br/)
 
-  :mortar_board: Cursando Engenharia de Software na [Faculdade UniAmérica Descomplica](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)
+  :mortar_board: Cursando Engenharia de Software na [Universidade UniAmérica](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)
   
   🌱 Me especializando em React | Front-end pelo [Ignite](https://www.rocketseat.com.br/formacao/react) da [Rocketseat](https://www.rocketseat.com.br/)
   
