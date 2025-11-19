@@ -4,7 +4,7 @@
   
   👨🏻‍💻 Desenvolvedor Web formado pela [Trybe](https://www.betrybe.com/)
   
-  💼 Atualmente trabalho como Desenvolvedor Front-end na [Compliance Station](https://compliancestation.com.br/)
+  💼 Atualmente trabalho como Desenvolvedor Front-end na [Contato Seguro](https://www.contatoseguro.com.br/)
 
   :mortar_board: Cursando Engenharia de Software na [Universidade UniAmérica](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)
   
